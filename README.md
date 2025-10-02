@@ -12,10 +12,6 @@
 </div>
 
 <div align="center">
-  I love music, playing games and studying Dev things. Follow me on IG: Wasup.lia
-</div>
-
-<div align="center">
 My coding playlist: https://open.spotify.com/playlist/77DYBjWxPyQosSeYlkCezn?si=9535edb5987943fa
 </div>
 
