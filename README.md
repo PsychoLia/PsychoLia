@@ -7,15 +7,11 @@
 
 <div style="display: inline_block"><br>
   <img align="right" alt="blossom" height="300" width="300" src="https://cdn.pixilart.com/photos/large/2d3e99442c4e7e3.gif">
+  <img align="left" alt="euzinha" height="300" width="300" src="https://media.discordapp.net/attachments/1234224186939936900/1423407422097330226/download20251004173243.png?ex=68e6ca77&is=68e578f7&hm=92c92f7b300891d4c7f7250490bcecdf9cf1018965c16cd889931a1a192ae8d5&=&format=webp&quality=lossless">
 </div>
 
-<div align="center">
-I love music, playing games and studying Dev things. Follow me on IG: Wasup.lia
-</div>
-
-<div align="center">
-Languages: English, French, Spanish and Portugues
-</div>
+<div align="center"> I love music, playing games and studying Dev things. Follow me on IG: Wasup.lia 
+  Languages: English, French, Spanish and Portugues </div>
 
 
 <div style="display: inline_block""><br>
