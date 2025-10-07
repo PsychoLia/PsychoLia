@@ -5,7 +5,6 @@
   My name is Júlia, I study in FIAP (cybersecurity)
 </div>
 
-
 <div style="display: inline_block"><br>
   <img align="right" alt="blossom" height="300" width="300" src="https://cdn.pixilart.com/photos/large/2d3e99442c4e7e3.gif">
 </div>
