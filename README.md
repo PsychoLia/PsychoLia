@@ -1,4 +1,4 @@
-## <div align="center"> <img alt="Sylveon" height="50" width="50" src="https://i.pinimg.com/originals/f2/da/33/f2da3389ed71ac27dd05e251442ae80d.gif"> Hello! Welcome to my profile! <img alt="Sylveon" height="50" width="50" src="https://i.pinimg.com/originals/f2/da/33/f2da3389ed71ac27dd05e251442ae80d.gif"> </div>
+## <div align="center"> <img alt="flowers" height="50" width="50" src="https://i.pinimg.com/originals/f2/da/33/f2da3389ed71ac27dd05e251442ae80d.gif"> Hello! Welcome to my profile! <img alt="flowers" height="50" width="50" src="https://i.pinimg.com/originals/f2/da/33/f2da3389ed71ac27dd05e251442ae80d.gif"> </div>
 
 
 <div align="center">
@@ -8,7 +8,6 @@
 
 <div style="display: inline_block"><br>
   <img align="right" alt="blossom" height="300" width="300" src="https://cdn.pixilart.com/photos/large/2d3e99442c4e7e3.gif">
-  <img align="left" alt="Me" height="300" width="300" src="https://media.discordapp.net/attachments/1234224186939936900/1423407422097330226/download20251004173243.png?ex=68e032f7&is=68dee177&hm=9a305ce527ed192108b583310f7ab6cf8e9bb4d020ca1a0d31762782adb1264a&=&format=webp&quality=lossless">
 </div>
 
 <div align="center">
