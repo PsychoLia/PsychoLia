@@ -1,11 +1,12 @@
 ## <div align="center"> <img alt="flowers" height="50" width="50" src="https://i.pinimg.com/originals/f2/da/33/f2da3389ed71ac27dd05e251442ae80d.gif"> Hello! Welcome to my profile! <img alt="flowers" height="50" width="50" src="https://i.pinimg.com/originals/f2/da/33/f2da3389ed71ac27dd05e251442ae80d.gif"> </div>
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="blossom" height="300" width="300" src="https://cdn.pixilart.com/photos/large/2d3e99442c4e7e3.gif">
-</div>
 
 <div align="center">
   My name is Júlia, I study in FIAP (cybersecurity)
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="right" alt="blossom" height="300" width="300" src="https://cdn.pixilart.com/photos/large/2d3e99442c4e7e3.gif">
 </div>
 
 <div align="center">
