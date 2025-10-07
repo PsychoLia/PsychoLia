@@ -11,7 +11,7 @@
 </div>
 
 <div align="center"> I love music, playing games and studying Dev things. Follow me on IG: Wasup.lia 
-  | Languages: English, French, Spanish and Portugues </div>
+  | Languages: English, French, Spanish and Portuguese </div>
 
 
 <div style="display: inline_block""><br>
