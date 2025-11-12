@@ -2,12 +2,11 @@
 
 
 <div align="center">
-  My name is Júlia Santiago Mateini, I study at FIAP (cybersecurity), I am new into the coding world, everyday trying to learn more and more in the area that I chose. My vibe is more to Dev things but is because it's my first year of contact. My goals are to be a developer and work with cybersecurity too, take some look at my projects, I think you will like it. <3
+  My name is Júlia Mateini, I study at FIAP (cybersecurity), I am new into the coding world, everyday trying to learn more and more in the area that I chose. My vibe is more to Dev things but is because it's my first year of contact. My goals are to be a developer and work with cybersecurity too, take some look at my projects, I think you will like it. <3
 </div>
 
 <div style="display: inline_block"><br>
   <img align="right" alt="blossom" height="300" width="300" src="https://cdn.pixilart.com/photos/large/2d3e99442c4e7e3.gif">
-  <img align="left" alt="euzinha" height="300" width="300" src="https://media.discordapp.net/attachments/1234224186939936900/1423407422097330226/download20251004173243.png?ex=68e6ca77&is=68e578f7&hm=92c92f7b300891d4c7f7250490bcecdf9cf1018965c16cd889931a1a192ae8d5&=&format=webp&quality=lossless">
 </div>
 
 <div align="center"> I love music, playing games and studying Dev things. Follow me on IG: Wasup.lia 
