@@ -9,9 +9,8 @@
   <img align="right" alt="blossom" height="300" width="300" src="https://cdn.pixilart.com/photos/large/2d3e99442c4e7e3.gif">
 </div>
 
-<div align="center"> I love music, playing games and studying Dev things. Follow me on IG: Wasup.lia 
-  | Languages: English, French, Spanish and Portuguese </div>
-
+<div align="center"> I love music, playing games and studying Dev things. Follow me on IG: Wasup.lia <div> 
+<div align="center"> Languages: English, French, Spanish and Portuguese </div>
 
 <div style="display: inline_block""><br>
   <img align="center" alt="lia-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
