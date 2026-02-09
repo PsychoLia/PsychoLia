@@ -2,17 +2,17 @@
 
 
 <div align="center">
-  My name is Júlia Mateini, I study at FIAP (cybersecurity), I am new into the coding world, everyday trying to learn more and more in the area that I chose. My vibe is more to Dev things but is because it's my first year of contact. My goals are to be a developer and work with cybersecurity too, take some look at my projects, I think you will like it. <3
+  My name is Júlia Mateini, I studed one year on FIAP (cybersecurity) and I decided to change to Software engineering. Everyday I'm trying to learn more and more in the area that I chose. My goals are to be a developer and work with cybersecurity too, take some look at my projects, I think you will like it. <3
 </div>
-
-<div align="center"> I love music, playing games and studying Dev things. Follow me on IG: lady.bonkers <div> 
+<div align="center"> <h2> About me </h2> </div>
+<div align="center"> I love music, playing games and studying Dev things. Follow me on IG: lady.bonkers </div> 
 <div align="center"> Languages: English, French, Spanish and Portuguese </div>
 
 <div style="display: inline_block""><br>
   <img align="center" alt="lia-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lia-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="lia-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="lia-vscode" height="30" width="40"  src="https://user-images.githubusercontent.com/35739995/122654956-2b934900-d125-11eb-94b1-58102216fa9f.png">
+  <img align="center" alt="lia-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="lia-html" height="30" width="40"  src="https://user-images.githubusercontent.com/35739995/122654956-2b934900-d125-11eb-94b1-58102216fa9f.png">
 </div>
 
 
