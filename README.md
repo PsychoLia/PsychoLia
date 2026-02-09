@@ -5,10 +5,6 @@
   My name is Júlia Mateini, I study at FIAP (cybersecurity), I am new into the coding world, everyday trying to learn more and more in the area that I chose. My vibe is more to Dev things but is because it's my first year of contact. My goals are to be a developer and work with cybersecurity too, take some look at my projects, I think you will like it. <3
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="blossom" height="300" width="300" src="https://cdn.pixilart.com/photos/large/2d3e99442c4e7e3.gif">
-</div>
-
 <div align="center"> I love music, playing games and studying Dev things. Follow me on IG: Wasup.lia <div> 
 <div align="center"> Languages: English, French, Spanish and Portuguese </div>
 
