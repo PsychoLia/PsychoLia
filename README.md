@@ -1,10 +1,23 @@
-## <div align="center"> Hello, Welcome to my profile. </div>
 
+<h1> ִ ࣪ ˖ ࣪ Welcome ! ᰔ ִ ׄ</h1>
 
-<div align="center">
-  My name is Júlia Mateini, I studied one year of cybersecurity and then I decided to change to Software engineering. Everyday I'm trying to learn more and more in the area that I choose, I love to talk to people to learn more and more! So if you want you can chat with me on instagram/LinkedIn. I want to be a developer and work with cybersecurity too, take some look at my projects, I think you will like it. <3
+<img src="banner.jpg" alt="Banner" />
+
+<hr>
+
+<div style="text-align: left; padding: 20px 0;">
+  <ul>
+    <li>‧₊˚ ☁️⋅♡ 🎓⋆ <strong> Software Engineering </strong> - FIAP </li>
+    <li>‧₊˚ ☁️⋅♡ 🪐༘⋆ <strong>Software Developer | Cybersecurity Analyst </strong></li>
+  </ul>
 </div>
-<div align="center"> <h2> About me </h2> </div>
-<div align="center"> I love music, playing games and studying Dev things. </div>
-<div align="center"> Follow me on instagram: lady.bonkers </div> 
-<div align="center"> Languages: English, French, Spanish and Portuguese </div>
+
+<hr>
+
+<div style="text-align: left; padding: 20px 0;">
+  <ul>
+    <li>‧₊˚ ☁️⋅♡ 🍷⋆ <strong> Language: </strong> Python, JavaScript, Html </li>
+    <li>‧₊˚ ☁️⋅♡ 🍸⋆ <strong> Idioms: </strong> English (Intermediate), Portuguese (Native) and Spanish (Basic) </li>
+  </ul>
+</div>
+
