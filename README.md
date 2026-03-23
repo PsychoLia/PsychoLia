@@ -10,8 +10,8 @@
   <ul>
     <li>‧₊˚ ☁️⋅🎓⋆ <strong> Software Engineering </strong> - FIAP </li>
     <li>‧₊˚ ☁️⋅🪐༘⋆ <strong>Software Developer | Cybersecurity Analyst </strong></li>
-    <li>‧₊˚ ☁️⋅🍷⋆ <strong> Languages: </strong> Python, JavaScript, Html </li>
-    <li>‧₊˚ ☁️⋅🍸⋆ <strong> Idioms: </strong> English (Intermediate), Portuguese (Native) and Spanish (Basic) </li>
+    <li>‧₊˚ ☁️⋅💫⋆ <strong> Languages: </strong> Python, JavaScript, Html </li>
+    <li>‧₊˚ ☁️⋅✨⋆ <strong> Idioms: </strong> English (Intermediate), Portuguese (Native) and Spanish (Basic) </li>
   </ul>
 </div>
 
