@@ -17,17 +17,6 @@
 
 <hr>
 
-<h1> ✩°｡🧺 Knowledge 𖦹 ₊˚</h1>
-
-  | **Categoryᢉ𐭩** | **Proficiencyᢉ𐭩** |
-  |-------------|-------------------------|
-  | **Analytical skills** | ⚫⚫⚫⚫⚪ |
-  | **Implementation of solutions** | ⚫⚫⚫⚪⚪ |
-  | **Project management** | ⚫⚫⚫⚫⚪ |
-  | **Risk mitigation** | ⚫⚫⚫⚪⚪ |
-  | **System and software development** | ⚫⚫⚫⚫⚪ |
-  | **Logical and critical thinking** | ⚫⚫⚫⚫⚪ |
-
   <h6> Made by PyschoLia - March 22 2026 </h6>
 
   
