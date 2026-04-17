@@ -1,8 +1,6 @@
 
 <h1> ִ ࣪ ˖ ࣪ Welcome ! ᰔ ִ ׄ</h1>
-
-<img src="banner.jpg" alt="Banner" />
-
+<img width="1200" height="400" alt="5d91a2036b4da364dbfd71ad29d1de8b" src="https://github.com/user-attachments/assets/278e5442-6da2-413e-9ea3-50708f4242a2" />
 <hr>
 <h1> ✩°｡🧺 About me 𖦹 ₊˚</h1>
 
@@ -31,7 +29,8 @@
 </div>
 <hr>
 
-  <h6> Made by PyschoLia - March 22 2026 </h6>
+
+  <h6> Made by LadyMatteini - March 22 2026 </h6>
 
   
 
