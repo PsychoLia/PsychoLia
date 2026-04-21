@@ -9,7 +9,7 @@
     <li>‧₊˚ ☁️⋅🎓⋆ <strong> Software Engineering </strong> - FIAP </li>
     <li>‧₊˚ ☁️⋅🪐༘⋆ <strong> Software Developer | Cybersecurity Analyst </strong></li>
     <li>‧₊˚ ☁️⋅💫⋆ <strong> Main tech stack: </strong> Python and C++ </li>
-    <li>‧₊˚ ☁️⋅✨⋆ <strong> Bilingual: </strong> English (Advenced) and Portuguese (Native) </li>
+    <li>‧₊˚ ☁️⋅✨⋆ <strong> Bilingual: </strong> English and Portuguese (Native) </li>
   </ul>
 </div>
 <hr>
